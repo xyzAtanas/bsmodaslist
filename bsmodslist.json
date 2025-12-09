@@ -5,20 +5,20 @@
 
   "apps": [
     {
-      "name": "Null's Brawl",
-      "bundleIdentifier": "nt.nb.ios",
-      "developerName": "Danill",
-      "subtitle": "Brawl Stars Private Server",
-      "version": "64.226",
+      "name": "NBS Offline",
+      "bundleIdentifier": "com.natesworks.nbsoffline.v59",
+      "developerName": "Natesworks",
+      "subtitle": "Brawl Stars v59 Offline",
+      "version": "v1.0b3",
       "versionDate": "2026-01-01T00:01:00-05:00",
       "versionDescription": "Date is a placeholder",
-      "downloadURL": "https://dnull.xyz/latest_bs_i",
-      "localizedDescription": "Brawl Stars Private Server.",
-      "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
-      "tintColor": "#800080",
+      "downloadURL": "https://github.com/xyzAtanas/bsmodaslist/releases/download/IPAUpload/nbs-v59-beta2a.ipa",
+      "localizedDescription": "Brawl Stars v59 Offline",
+      "iconURL": "https://cdn4.telesco.pe/file/XpWIqcXfVtIKnKGVaf2aBmhpboKR_S-diND4j1K8ke2FD_VYugZ5sifUucILEh6TppzBoTMw3yOMdvNrqGFM_BjhsAxlMxVDDl5Gbtoj2JVK2_G160HA_WN6QLKlGK6Fe4BeSl3TQUczV4guQX8MZe9eNVdz4HuhMTeygNhvQKz7FDlVqO0yD1-8mRaGar1q-Jl2FOd9htEWTm0OV_aewvA2X9RhbPRUwOtz1NcNYk7Ydryj8BoInNzCljH5wFrNjU6EO1GiVuQfhsRZNQm8okMziqMH2oNwcRt7LOahq3DUTG6UW9kLEXxUxyqwijUMvY2_fWj9DmixbAs5mfQnYA.jpg",
+      "tintColor": "#ADD8E6",
       "size": 77010038,
       "screenshotURLs": [
-        "https://nulls.gg/assets/img/nb-bg.png"
+        "https://cdn4.telesco.pe/file/M41HouUBbRXsaNhEJOuqgSXomQFuIkj7wLYD7kue-yIje5bRqHnHJPyB-I0N-dkUSDJCvezsoeyhX7FCfmINvdtBqzaF3cGk3kfdnoETXucbQZe8u_TQVabaFu4g1NeBCYSny3rytErXcdVfN8yAZ_9M6wRUq1rwwG4WyzVHWkopMYGdKJlXyg3TlUsAevp5V1SvIIFtSbUZ6gH5SS-2jp2drOoMNVqz7_-wxGyznvYFIn1anwLjRfGsV7hw19ObR0xpUBcPvMcbSEMwSvdcmafA_xIdAocL56aOkjqyEcHEoP85s0C2s407tX5FqvifAkahdmSoFYucg3GKqCvJfA.jpg"
       ]
     },
     {
