@@ -22,7 +22,6 @@
     }
   ],
   
-  [
     {
       "name": "Null's Brawl",
       "bundleIdentifier": "nt.nb.ios",
@@ -40,7 +39,7 @@
         "https://nulls.gg/assets/img/nb-bg.png"
       ]
     }
-  ]
+  ],
   "news": [
     {
       "title": "Provenance 2.2.1 Beta with PS2, GameCube, Wii and PSP available for early testing.",
