@@ -19,6 +19,24 @@
       "size": 77010038,
       "screenshotURLs": [
         "https://nulls.gg/assets/img/nb-bg.png"
+        }
+      ]
+    },
+    {
+      "name": "Null's Brawl",
+      "bundleIdentifier": "nt.nb.ios",
+      "developerName": "Danill",
+      "subtitle": "Brawl Stars Private Server",
+      "version": "64.226",
+      "versionDate": "2026-01-01T00:01:00-05:00",
+      "versionDescription": "Date is a placeholder",
+      "downloadURL": "https://dnull.xyz/latest_bs_i",
+      "localizedDescription": "Brawl Stars Private Server.",
+      "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
+      "tintColor": "#800080",
+      "size": 77010038,
+      "screenshotURLs": [
+        "https://nulls.gg/assets/img/nb-bg.png"
       ]
     }
   ],
