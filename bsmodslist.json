@@ -19,7 +19,6 @@
       "size": 77010038,
       "screenshotURLs": [
         "https://nulls.gg/assets/img/nb-bg.png"
-        }
       ]
     },
     {
@@ -58,14 +57,4 @@
       "identifier": "news-220-release",
       "caption": "Major bug fixes, movable buttons, new cores, new features.",
       "date": "2022-12-09T12:00:01-05:00",
-      "tintColor": "162434",
-      "imageURL": "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
-      "url": "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/",
-      "appID": "org.provenance-emu.provenance",
-      "notify": true
-    }
-  ],
-
-  "userInfo": {}
-}
-
+      "tintColor": "
