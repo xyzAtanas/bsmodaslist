@@ -1,5 +1,5 @@
 {
-  "name": "Atanas' Brawl Stars Mods",
+  "name": "Atanas' PAL Brawl Stars Mods",
   "subtitle": "A source for Brawl Stars mods",
   "description": "Here you can find Brawl Stars mods",
   "iconURL": "https://i.imgur.com/dRmXqjD.png",
@@ -78,4 +78,34 @@
       "bundleIdentifier": "com.natesworks.nbsoffline.v59",
       "marketplaceID": "",
       "developerName": "Natesworks",
- 
+      "subtitle": "Offline Brawl Stars mod v59",
+      "localizedDescription": "Offline Brawl Stars mod v59",
+      "iconURL": "https://i.imgur.com/wM2qIpc.png",
+      "tintColor": "#f11622",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/xyzAtanas/bsmodaslist/releases/download/IPAUpload/nbs-v59-beta2a.ipa",
+          "size": 686200000,
+          "version": "3.0",
+          "buildVersion": null,
+          "date": "2025-12-10T14:01:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
+          "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
