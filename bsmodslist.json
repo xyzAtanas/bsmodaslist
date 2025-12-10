@@ -1,72 +1,81 @@
 {
-  "name": "Atanas' Brawl Stars Mods Repo",
-  "identifier": "com.atanasbsmodslist.AltStore",
-  "subtitle": "Contains Brawl Stars mods (list from brawlmods.com)",
-
+  "name": "Atanas' Brawl Stars Mods",
+  "subtitle": "A source for Brawl Stars mods",
+  "description": "Here you can find Brawl Stars mods",
+  "iconURL": "https://i.imgur.com/dRmXqjD.png",
+  "website": "https://brawlmods.com",
+  "patreonURL": "",
+  "tintColor": "#e7e7e7",
+  "featuredApps": [],
   "apps": [
+    {
+      "name": "Magic Brawl",
+      "bundleIdentifier": "mt.mb.ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Online server for an older version of Brawl Stars (NOT THE OFFICIAL ONE)",
+      "localizedDescription": "Online server for an older version of Brawl Stars (NOT THE OFFICIAL ONE)",
+      "iconURL": "https://i.imgur.com/eHT51sl.png",
+      "tintColor": "#147cf4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://files.magic-servers.xyz/mb.ipa",
+          "size": 406000000,
+          "version": "49.175",
+          "buildVersion": null,
+          "date": "2025-12-10T13:59:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "NB v64.226",
+      "bundleIdentifier": "nt.nb.ios",
+      "marketplaceID": "",
+      "developerName": "Danill",
+      "subtitle": "Online server mod (NOT THE OFFICIAL ONE)",
+      "localizedDescription": "Online server mod (NOT THE OFFICIAL ONE)",
+      "iconURL": "https://i.imgur.com/M55fCBT.png",
+      "tintColor": "#8c1cd4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dnull.xyz/latest_bs_i",
+          "size": 940600000,
+          "version": "64.226",
+          "buildVersion": null,
+          "date": "2025-12-10T14:00:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "NBS Offline",
       "bundleIdentifier": "com.natesworks.nbsoffline.v59",
+      "marketplaceID": "",
       "developerName": "Natesworks",
-      "subtitle": "Brawl Stars v59 Offline",
-      "version": "v1.0b3",
-      "versionDate": "2025-01-01T00:01:00-05:00",
-      "versionDescription": "Date is a placeholder",
-      "downloadURL": "https://archive.org/download/nbs_20251209/nbs.ipa",
-      "localizedDescription": "Brawl Stars v59 Offline",
-      "iconURL": "https://cdn4.telesco.pe/file/XpWIqcXfVtIKnKGVaf2aBmhpboKR_S-diND4j1K8ke2FD_VYugZ5sifUucILEh6TppzBoTMw3yOMdvNrqGFM_BjhsAxlMxVDDl5Gbtoj2JVK2_G160HA_WN6QLKlGK6Fe4BeSl3TQUczV4guQX8MZe9eNVdz4HuhMTeygNhvQKz7FDlVqO0yD1-8mRaGar1q-Jl2FOd9htEWTm0OV_aewvA2X9RhbPRUwOtz1NcNYk7Ydryj8BoInNzCljH5wFrNjU6EO1GiVuQfhsRZNQm8okMziqMH2oNwcRt7LOahq3DUTG6UW9kLEXxUxyqwijUMvY2_fWj9DmixbAs5mfQnYA.jpg",
-      "tintColor": "#ADD8E6",
-      "size": 77010038,
-      "screenshotURLs": [
-        "https://cdn4.telesco.pe/file/M41HouUBbRXsaNhEJOuqgSXomQFuIkj7wLYD7kue-yIje5bRqHnHJPyB-I0N-dkUSDJCvezsoeyhX7FCfmINvdtBqzaF3cGk3kfdnoETXucbQZe8u_TQVabaFu4g1NeBCYSny3rytErXcdVfN8yAZ_9M6wRUq1rwwG4WyzVHWkopMYGdKJlXyg3TlUsAevp5V1SvIIFtSbUZ6gH5SS-2jp2drOoMNVqz7_-wxGyznvYFIn1anwLjRfGsV7hw19ObR0xpUBcPvMcbSEMwSvdcmafA_xIdAocL56aOkjqyEcHEoP85s0C2s407tX5FqvifAkahdmSoFYucg3GKqCvJfA.jpg"
-      ],
-      "marketplaceID": "5789423"
-    },
-    {
-      "name": "Null's Brawl",
-      "bundleIdentifier": "nt.nb.ios",
-      "developerName": "Danill",
-      "subtitle": "Brawl Stars Private Server",
-      "version": "64.226",
-      "versionDate": "2025-01-01T00:01:00-05:00",
-      "versionDescription": "Date is a placeholder",
-      "downloadURL": "https://dnull.xyz/latest_bs_i",
-      "localizedDescription": "Brawl Stars Private Server.",
-      "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
-      "tintColor": "#800080",
-      "size": 77010038,
-      "screenshotURLs": [
-        "https://nulls.gg/assets/img/nb-bg.png"
-      ],
-      "marketplaceID": "5789422"
-    }
-  ],
-
-  "news": [
-    {
-      "title": "Provenance 2.2.1 Beta with PS2, GameCube, Wii and PSP",
-      "identifier": "news-221-beta",
-      "caption": "Early testing build available.",
-      "date": "2022-12-09T12:00:01-05:00",
-      "tintColor": "162434",
-      "imageURL": "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
-      "url": "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/",
-      "appID": "org.provenance-emu.provenance",
-      "notify": true
-    },
-    {
-      "title": "Provenance 2.2.0 Released",
-      "identifier": "news-220-release",
-      "caption": "Major bug fixes, movable buttons, new cores, new features.",
-      "date": "2022-12-09T12:00:01-05:00",
-      "tintColor": "162434",
-      "imageURL": "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
-      "url": "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/",
-      "appID": "org.provenance-emu.provenance",
-      "notify": true
-    }
-  ],
-
-  "marketplaceID": "5789423",
-  "userInfo": {}
-}
+ 
