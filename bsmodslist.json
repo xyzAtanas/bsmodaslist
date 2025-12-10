@@ -9,9 +9,40 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "Retro Brawl",
+      "bundleIdentifier": "nt.rb.ios",
+      "marketplaceID": "",
+      "developerName": "Magic Team",
+      "subtitle": "Old Brawl Stars",
+      "localizedDescription": "Private Server of Old Brawl Stars v12.98",
+      "iconURL": "https://magicbrawl.gg/images/rb-icon.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://files.magic-servers.xyz/retrobrawl.ipa",
+          "size": 90400000,
+          "version": "12.197",
+          "buildVersion": "12.197",
+          "date": "2025-12-10T16:07:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Magic Brawl",
       "bundleIdentifier": "mt.mb.ios",
-      "developerName": "Example Developer",
+      "marketplaceID": "",
+      "developerName": "Magic Team",
       "subtitle": "Online server for an older version of Brawl Stars (NOT THE OFFICIAL ONE)",
       "localizedDescription": "Online server for an older version of Brawl Stars (NOT THE OFFICIAL ONE)",
       "iconURL": "https://i.imgur.com/eHT51sl.png",
@@ -20,12 +51,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://files.magic-servers.xyz/mb.ipa",
-          "size": 406000000,
           "version": "49.175",
-          "buildVersion": "0",
           "date": "2025-12-10T13:59:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://files.magic-servers.xyz/mb.ipa",
+          "size": 406000000,
+          "buildVersion": "0",
           "minOSVersion": null
         }
       ],
@@ -36,11 +67,13 @@
           "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
         }
-      }
+      },
+      "patreon": {}
     },
     {
       "name": "NB v64.226",
       "bundleIdentifier": "nt.nb.ios",
+      "marketplaceID": "",
       "developerName": "Danill",
       "subtitle": "Online server mod (NOT THE OFFICIAL ONE)",
       "localizedDescription": "Online server mod (NOT THE OFFICIAL ONE)",
@@ -50,12 +83,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://dnull.xyz/latest_bs_i",
-          "size": 940600000,
           "version": "64.226",
-          "buildVersion": "64.226",
           "date": "2025-12-10T14:00:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://dnull.xyz/latest_bs_i",
+          "size": 940600000,
+          "buildVersion": "64.226",
           "minOSVersion": null
         }
       ],
@@ -67,11 +100,13 @@
           "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
         }
-      }
+      },
+      "patreon": {}
     },
     {
       "name": "NBS Offline",
       "bundleIdentifier": "com.natesworks.nbsoffline.v59",
+      "marketplaceID": "",
       "developerName": "Natesworks",
       "subtitle": "Offline Brawl Stars mod v59",
       "localizedDescription": "Offline Brawl Stars mod v59",
@@ -81,12 +116,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://drive.usercontent.google.com/download?id=1VNUXX6se9YHfoHLaWM00D4uAS-Inf-uN&export=download&authuser=0&confirm=t&uuid=f8f45396-b1b1-4643-aceb-17dd3b696092&at=ALWLOp7Y_6f3zJs67BfQ_m_a3puR%3A1765297906516",
-          "size": 686200000,
           "version": "3.0",
-          "buildVersion": "59.197",
           "date": "2025-12-10T14:01:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1VNUXX6se9YHfoHLaWM00D4uAS-Inf-uN&export=download&authuser=0&confirm=t&uuid=f8f45396-b1b1-4643-aceb-17dd3b696092&at=ALWLOp7Y_6f3zJs67BfQ_m_a3puR%3A1765297906516",
+          "size": 686200000,
+          "buildVersion": "59.197",
           "minOSVersion": null
         }
       ],
@@ -98,7 +133,8 @@
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
           "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
         }
-      }
+      },
+      "patreon": {}
     }
   ],
   "news": []
