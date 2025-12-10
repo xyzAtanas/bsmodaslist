@@ -11,7 +11,6 @@
     {
       "name": "Magic Brawl",
       "bundleIdentifier": "mt.mb.ios",
-      "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "Online server for an older version of Brawl Stars (NOT THE OFFICIAL ONE)",
       "localizedDescription": "Online server for an older version of Brawl Stars (NOT THE OFFICIAL ONE)",
@@ -42,7 +41,6 @@
     {
       "name": "NB v64.226",
       "bundleIdentifier": "nt.nb.ios",
-      "marketplaceID": "",
       "developerName": "Danill",
       "subtitle": "Online server mod (NOT THE OFFICIAL ONE)",
       "localizedDescription": "Online server mod (NOT THE OFFICIAL ONE)",
@@ -74,7 +72,6 @@
     {
       "name": "NBS Offline",
       "bundleIdentifier": "com.natesworks.nbsoffline.v59",
-      "marketplaceID": "",
       "developerName": "Natesworks",
       "subtitle": "Offline Brawl Stars mod v59",
       "localizedDescription": "Offline Brawl Stars mod v59",
