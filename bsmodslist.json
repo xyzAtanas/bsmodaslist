@@ -24,7 +24,7 @@
           "downloadURL": "https://files.magic-servers.xyz/mb.ipa",
           "size": 406000000,
           "version": "49.175",
-          "buildVersion": null,
+          "buildVersion": "0",
           "date": "2025-12-10T13:59:00+02:00",
           "localizedDescription": null,
           "minOSVersion": null
@@ -55,7 +55,7 @@
           "downloadURL": "https://dnull.xyz/latest_bs_i",
           "size": 940600000,
           "version": "64.226",
-          "buildVersion": null,
+          "buildVersion": "0",
           "date": "2025-12-10T14:00:00+02:00",
           "localizedDescription": null,
           "minOSVersion": null
@@ -87,7 +87,7 @@
           "downloadURL": "https://github.com/xyzAtanas/bsmodaslist/releases/download/IPAUpload/nbs-v59-beta2a.ipa",
           "size": 686200000,
           "version": "3.0",
-          "buildVersion": null,
+          "buildVersion": "0",
           "date": "2025-12-10T14:01:00+02:00",
           "localizedDescription": null,
           "minOSVersion": null
