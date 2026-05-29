@@ -13,7 +13,6 @@
     {
       "name": "Tale Stars",
       "bundleIdentifier": "com.supercell.laser",
-      "marketplaceID": "",
       "developerName": "Tale Stars team",
       "subtitle": "Brawl Stars cheat",
       "localizedDescription": "Tale Stars is a (mostly paid) cheat for Brawl Stars. It provides useful utilities like Autododge and many more that im too lazy to type. USE AN ALT ACCOUNT TO CHEAT IN ANY GAME!!!!",
@@ -47,7 +46,6 @@
     {
       "name": "MB v51.226",
       "bundleIdentifier": "mt.mb.ios",
-      "marketplaceID": "",
       "developerName": "Magic Brawl team (I donât fucking know)",
       "subtitle": "Old Brawl Stars Private Server",
       "localizedDescription": "Magic Brawl is an old Brawl Stars Private Server.",
@@ -79,7 +77,6 @@
     {
       "name": "Null's Brawl",
       "bundleIdentifier": "nt.nb.ios",
-      "marketplaceID": "",
       "developerName": "danillnull",
       "subtitle": "Brawl Stars Private Server",
       "localizedDescription": "Nullâs Brawl is a Brawl Stars Private Server with unlimited resources for free.",
@@ -113,7 +110,6 @@
     {
       "name": "NBS Offline v59",
       "bundleIdentifier": "com.natesworks.nbsoffline.v59",
-      "marketplaceID": "",
       "developerName": "Natesworks and Bannanae",
       "subtitle": "Brawl Stars Offline for v59",
       "localizedDescription": "NBS Offline is a project that aims to provide offline experience for Brawl Stars. This app requires JIT to run.",
