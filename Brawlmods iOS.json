@@ -18,7 +18,7 @@
       "developerName": "Tale Stars team",
       "subtitle": "Brawl Stars cheat",
       "localizedDescription": "Tale Stars is a (mostly paid) cheat for Brawl Stars. It provides useful utilities like Autododge and many more that im too lazy to type. USE AN ALT ACCOUNT TO CHEAT IN ANY GAME!!!!",
-      "iconURL": "http://ktr.brawlmods.com/resources/tale/icon.png",
+      "iconURL": "https://i.imgur.com/iTyW3AX.png",
       "tintColor": "#00a2ff",
       "category": "games",
       "screenshots": [],
@@ -37,7 +37,7 @@
         "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSCameraUsageDescription": "CameraÂ accessÂ isÂ neededÂ forÂ scanningÂ QRÂ codes.",
           "NSUserTrackingUsageDescription": "Allow tracking to get ads and offers on this app and ads for our games in other apps. We also use your data to generate audience insights, perform analytics and improve our services.",
           "NSMotionUsageDescription": "Accelerometer permission is required to enable some in-game visual effects.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
@@ -49,7 +49,7 @@
       "name": "MB v51.226",
       "bundleIdentifier": "mt.mb.ios",
       "marketplaceID": "",
-      "developerName": "Magic Brawl team (I don’t fucking know)",
+      "developerName": "Magic Brawl team (I donât fucking know)",
       "subtitle": "Old Brawl Stars Private Server",
       "localizedDescription": "Magic Brawl is an old Brawl Stars Private Server.",
       "iconURL": "https://i.imgur.com/z9fV2pN.png",
@@ -71,19 +71,19 @@
         "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSCameraUsageDescription": "CameraÂ accessÂ isÂ neededÂ forÂ scanningÂ QRÂ codes.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
         }
       },
       "patreon": {}
     },
     {
-      "name": "Null’s Brawl",
+      "name": "Nullâs Brawl",
       "bundleIdentifier": "nt.nb.ios",
       "marketplaceID": "",
       "developerName": "danillnull",
       "subtitle": "Brawl Stars Private Server",
-      "localizedDescription": "Null’s Brawl is a Brawl Stars Private Server with unlimited resources for free.",
+      "localizedDescription": "Nullâs Brawl is a Brawl Stars Private Server with unlimited resources for free.",
       "iconURL": "https://i.imgur.com/HN8izQw.png",
       "tintColor": "#8c1cd4",
       "category": "games",
@@ -103,7 +103,7 @@
         "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSCameraUsageDescription": "CameraÂ accessÂ isÂ neededÂ forÂ scanningÂ QRÂ codes.",
           "NSUserTrackingUsageDescription": "Allow tracking to get ads and offers on this app and ads for our games in other apps. We also use your data to generate audience insights, perform analytics and improve our services.",
           "NSMotionUsageDescription": "Accelerometer permission is required to enable some in-game visual effects.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
@@ -143,7 +143,7 @@
         "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSCameraUsageDescription": "CameraÂ accessÂ isÂ neededÂ forÂ scanningÂ QRÂ codes.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
           "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
         }
