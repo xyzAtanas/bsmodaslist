@@ -4,7 +4,6 @@
   "description": "This is a source for Brawl Stars mods.",
   "iconURL": "https://i.imgur.com/jctuhhJ.png",
   "website": "https://brawlmods.com",
-  "patreonURL": "",
   "tintColor": "#00a2ff",
   "featuredApps": [
     "com.natesworks.nbsoffline.v59",
