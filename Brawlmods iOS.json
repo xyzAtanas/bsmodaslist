@@ -1,0 +1,155 @@
+{
+  "name": "Brawlmods iOS",
+  "subtitle": "Brawl Stars mods",
+  "description": "This is a source for Brawl Stars mods.",
+  "iconURL": "https://i.imgur.com/jctuhhJ.png",
+  "website": "https://brawlmods.com",
+  "patreonURL": "",
+  "tintColor": "#00a2ff",
+  "featuredApps": [
+    "com.natesworks.nbsoffline.v59",
+    "com.supercell.laser"
+  ],
+  "apps": [
+    {
+      "name": "Tale Stars",
+      "bundleIdentifier": "com.supercell.laser",
+      "marketplaceID": "",
+      "developerName": "Tale Stars team",
+      "subtitle": "Brawl Stars cheat",
+      "localizedDescription": "Tale Stars is a (mostly paid) cheat for Brawl Stars. It provides useful utilities like Autododge and many more that im too lazy to type. USE AN ALT ACCOUNT TO CHEAT IN ANY GAME!!!!",
+      "iconURL": "http://ktr.brawlmods.com/resources/tale/icon.png",
+      "tintColor": "#00a2ff",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://fafda.to/d/ql41m9ioh5ed?v=LOTLUNpiG6DVRliI76C7XffnYc8RAhKmq-8VVcopTarrfOiRJon9l14CP7-hGdPJr-SA0Cw1p4X7SYdYYPfAxo99gV3uvpmWW1HsD7omj8RuTnPBo2krAZajerDdfuFmDl3OSNiP1Fp0UKzC0oUiSkXkDQo",
+          "size": 1152400000,
+          "version": "67.264",
+          "buildVersion": null,
+          "date": "2026-05-29T20:33:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSUserTrackingUsageDescription": "Allow tracking to get ads and offers on this app and ads for our games in other apps. We also use your data to generate audience insights, perform analytics and improve our services.",
+          "NSMotionUsageDescription": "Accelerometer permission is required to enable some in-game visual effects.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "MB v51.226",
+      "bundleIdentifier": "mt.mb.ios",
+      "marketplaceID": "",
+      "developerName": "Magic Brawl team (I don’t fucking know)",
+      "subtitle": "Old Brawl Stars Private Server",
+      "localizedDescription": "Magic Brawl is an old Brawl Stars Private Server.",
+      "iconURL": "https://i.imgur.com/z9fV2pN.png",
+      "tintColor": "#147cf4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://magic.nullsusercontent.com/mb_497eac.ipa",
+          "size": 439300000,
+          "version": "51.226",
+          "buildVersion": null,
+          "date": "2026-05-29T20:26:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Null’s Brawl",
+      "bundleIdentifier": "nt.nb.ios",
+      "marketplaceID": "",
+      "developerName": "danillnull",
+      "subtitle": "Brawl Stars Private Server",
+      "localizedDescription": "Null’s Brawl is a Brawl Stars Private Server with unlimited resources for free.",
+      "iconURL": "https://i.imgur.com/HN8izQw.png",
+      "tintColor": "#8c1cd4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://tempweb.nullsusercontent.com/fpipa/nb_67.264_c8101ece.ipa",
+          "size": 1135900000,
+          "version": "67.264",
+          "buildVersion": null,
+          "date": "2026-05-29T20:23:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSUserTrackingUsageDescription": "Allow tracking to get ads and offers on this app and ads for our games in other apps. We also use your data to generate audience insights, perform analytics and improve our services.",
+          "NSMotionUsageDescription": "Accelerometer permission is required to enable some in-game visual effects.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "NBS Offline v59",
+      "bundleIdentifier": "com.natesworks.nbsoffline.v59",
+      "marketplaceID": "",
+      "developerName": "Natesworks and Bannanae",
+      "subtitle": "Brawl Stars Offline for v59",
+      "localizedDescription": "NBS Offline is a project that aims to provide offline experience for Brawl Stars. This app requires JIT to run.",
+      "iconURL": "https://i.imgur.com/jdkOr6x.png",
+      "tintColor": "#f11622",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://i.imgur.com/kpXDihU.png",
+          "width": 2400,
+          "height": 1080
+        }
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://download1527.mediafire.com/99n0qh5x46jgZvH74LqeTSd2ZYaIq73wQn_h071CB3_72PwMUGioVjSiU5Z4FTnBjCa3AYrsR97kb24ZszvrQvLp-CPIuYwOSXjJBW99a5NHBApLFVmBKt8bWCyaCJCmLah0DBfDE2KMTgBpNvJVLkNSbUNk2sjnzN4tEyeypGts/z68hwej9zh8uiyq/nbs.ipa",
+          "size": 686200000,
+          "version": "1.0-beta1",
+          "buildVersion": null,
+          "date": "2026-05-29T20:09:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
+          "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
