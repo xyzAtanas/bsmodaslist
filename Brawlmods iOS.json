@@ -44,7 +44,7 @@
       "patreon": {}
     },
     {
-      "name": "MB v51.226",
+      "name": "Magic Brawl",
       "bundleIdentifier": "mt.mb.ios",
       "developerName": "Magic Brawl team (I donât fucking know)",
       "subtitle": "Old Brawl Stars Private Server",
@@ -55,9 +55,9 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://magic.nullsusercontent.com/mb_497eac.ipa",
+          "downloadURL": "https://magic.nullsusercontent.com/mb_0fdd78.ipa",
           "size": 439300000,
-          "version": "51.226",
+          "version": "52.177",
           "buildVersion": null,
           "date": "2026-05-29T20:26:00+03:00",
           "localizedDescription": null,
