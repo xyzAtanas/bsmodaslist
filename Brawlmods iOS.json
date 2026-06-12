@@ -35,7 +35,7 @@
         "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "CameraÂ accessÂ isÂ neededÂ forÂ scanningÂ QRÂ codes.",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
           "NSUserTrackingUsageDescription": "Allow tracking to get ads and offers on this app and ads for our games in other apps. We also use your data to generate audience insights, perform analytics and improve our services.",
           "NSMotionUsageDescription": "Accelerometer permission is required to enable some in-game visual effects.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
@@ -68,7 +68,7 @@
         "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "CameraÂ accessÂ isÂ neededÂ forÂ scanningÂ QRÂ codes.",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
         }
       },
@@ -79,7 +79,7 @@
       "bundleIdentifier": "nt.nb.ios",
       "developerName": "danillnull",
       "subtitle": "Brawl Stars Private Server",
-      "localizedDescription": "Nullâs Brawl is a Brawl Stars Private Server with unlimited resources for free.",
+      "localizedDescription": "Null's Brawl is a Brawl Stars Private Server with unlimited resources for free.",
       "iconURL": "https://i.imgur.com/HN8izQw.png",
       "tintColor": "#8c1cd4",
       "category": "games",
@@ -99,7 +99,7 @@
         "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "CameraÂ accessÂ isÂ neededÂ forÂ scanningÂ QRÂ codes.",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
           "NSUserTrackingUsageDescription": "Allow tracking to get ads and offers on this app and ads for our games in other apps. We also use your data to generate audience insights, perform analytics and improve our services.",
           "NSMotionUsageDescription": "Accelerometer permission is required to enable some in-game visual effects.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
@@ -110,7 +110,7 @@
     {
       "name": "NBS Offline v59",
       "bundleIdentifier": "com.natesworks.nbsoffline.v59",
-      "developerName": "Natesworks and Bannanae",
+      "developerName": "Natesworks and Banaanae",
       "subtitle": "Brawl Stars Offline for v59",
       "localizedDescription": "NBS Offline is a project that aims to provide offline experience for Brawl Stars. This app requires JIT to run.",
       "iconURL": "https://i.imgur.com/jdkOr6x.png",
@@ -138,7 +138,7 @@
         "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "CameraÂ accessÂ isÂ neededÂ forÂ scanningÂ QRÂ codes.",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
           "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
         }
